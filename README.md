@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madiou84
-- 👀 I’m interested in typescript, nodejs, java
+- 👀 I’m interested in typescript, nodejs
 - 🌱 I’m currently learning graphql
 - 📫 How to reach me on twitter ? @m19bah
 
