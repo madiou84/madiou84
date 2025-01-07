@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @madiou84
-- 👀 I’m interested in Java, Typescript, nodejs
-- 🌱 I’m currently learning graphql
-- 📫 How to reach me on twitter ? @m19bah
-
-<!---
-madiou84/madiou84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello, je suis @madiou84
+- 👀 Développeur fullstack confirmé, passionné par la conception d’applications modernes et centrées sur l’expérience utilisateur
+- 🧩 Intéressé par la modularité, la maintenabilité, les tests, la scalabilité, le découplage et la clean architecture
+- 🌱 Je suis en route vers le Lead Developer, avec un intérêt marqué pour l’architecture logicielle, le mentoring et la structuration des équipes
+- 📫 Vous pouvez me contacter via [mon site web](https://madiou.vercel.app/) ou sur [LinkedIn](https://www.linkedin.com/in/madiou84)
